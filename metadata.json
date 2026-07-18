@@ -1,0 +1,6 @@
+{
+  "name": "Civic Z",
+  "description": "Civic Z is a hybrid social and emergency healthcare ecosystem converting verified real-world civic actions into liquid Humanity Points used to claim free blood bags or on-demand emergency ambulance rides with cryptographic audit trails.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
